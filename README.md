@@ -11,6 +11,6 @@ Form with customizable/dinamic fields
 
 
 ## Usage
-Browse http://127.0.0.1:8000/signup
-Make changes in `gform/fields.json`
-Refresh http://127.0.0.1:8000/signup
+* Browse http://127.0.0.1:8000/signup
+* Make changes in `gform/fields.json`
+* Refresh http://127.0.0.1:8000/signup
