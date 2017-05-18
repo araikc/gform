@@ -3,7 +3,7 @@ Form with customizable/dinamic fields
 
 ## Installation
 
-* `$ git clone git@github.com:<your username>/dj-angular.git`
+* `$ git clone git@github.com:<your username>/gform.git`
 * `$ cd gform`
 * `$ python manage.py migrate`
 * `$ python manage.py runserver`
