@@ -1,0 +1,11 @@
+{ 
+    "New field label 1": { 
+        "type" : "textEdit" 
+    }, 
+    "New field label 2": { 
+        "type" : "textEdit" 
+    }, 
+    "New field label 3": { 
+        "type" : "textEdit" 
+    }
+}
